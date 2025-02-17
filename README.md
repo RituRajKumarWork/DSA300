@@ -17,6 +17,8 @@ This repository contains 300 essential LeetCode problems categorized into differ
 |          11  | Medium       | Container With Most Water                | https://leetcode.com/problems/container-with-most-water/                |
 |          88  | Easy         | Merge Sorted Array                       | https://leetcode.com/problems/merge-sorted-array/                       |
 |         189  | Easy         | Rotate Array                             | https://leetcode.com/problems/rotate-array/                             |
+|           ...| ...          | ...                                      | ...                                                                     |
+
 
 ## LinkedLists
 
@@ -29,6 +31,8 @@ This repository contains 300 essential LeetCode problems categorized into differ
 |          83  | Easy         | Remove Duplicates from Sorted List       | https://leetcode.com/problems/remove-duplicates-from-sorted-list/       |
 |         160  | Easy         | Intersection of Two Linked Lists         | https://leetcode.com/problems/intersection-of-two-linked-lists/         |
 |         707  | Easy         | Design Linked List                       | https://leetcode.com/problems/design-linked-list/                       |
+|           ...| ...          | ...                                      | ...                                                                     |
+
 
 ## Stacks
 
@@ -47,6 +51,8 @@ This repository contains 300 essential LeetCode problems categorized into differ
 |          225 | Easy         | Implement Stack using Queues             | https://leetcode.com/problems/implement-stack-using-queues/             |
 |          622 | Medium       | Design Circular Queue                    | https://leetcode.com/problems/design-circular-queue/                    |
 |          933 | Medium       | Number of Recent Calls                   | https://leetcode.com/problems/number-of-recent-calls/                   |
+|           ...| ...          | ...                                      | ...                                                                     |
+
 
 ## Sorting
 
@@ -56,6 +62,8 @@ This repository contains 300 essential LeetCode problems categorized into differ
 |          912 | Medium       | Sort an Array                            | https://leetcode.com/problems/sort-an-array/                            |
 |         148  | Medium       | Sort List                                | https://leetcode.com/problems/sort-list/                                |
 |         179  | Hard         | Largest Number                           | https://leetcode.com/problems/largest-number/                           |
+|           ...| ...          | ...                                      | ...                                                                     |
+
 
 ## Searching
 
@@ -65,6 +73,8 @@ This repository contains 300 essential LeetCode problems categorized into differ
 |           74 | Medium       | Search a 2D Matrix                       | https://leetcode.com/problems/search-a-2d-matrix/                       |
 |          278 | Easy         | First Bad Version                        | https://leetcode.com/problems/first-bad-version/                        |
 |          162 | Medium       | Find Peak Element                        | https://leetcode.com/problems/find-peak-element/                        |
+|           ...| ...          | ...                                      | ...                                                                     |
+
 
 ## Recursion
 
@@ -74,6 +84,8 @@ This repository contains 300 essential LeetCode problems categorized into differ
 |          509 | Easy         | Fibonacci Number                         | https://leetcode.com/problems/fibonacci-number/                         |
 |          46  | Medium       | Permutations                             | https://leetcode.com/problems/permutations/                             |
 |          47  | Medium       | Permutations II                          | https://leetcode.com/problems/permutations-ii/                          |
+|           ...| ...          | ...                                      | ...                                                                     |
+
 
 ## Download Full Excel Sheet
 
