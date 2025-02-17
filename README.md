@@ -43,6 +43,8 @@ This repository contains 300 essential LeetCode problems categorized into differ
 |          739 | Medium       | Daily Temperatures                       | https://leetcode.com/problems/daily-temperatures/                       |
 |          32  | Hard         | Longest Valid Parentheses                | https://leetcode.com/problems/longest-valid-parentheses/                |
 |          84  | Hard         | Largest Rectangle in Histogram           | https://leetcode.com/problems/largest-rectangle-in-histogram/           |
+|           ...| ...          | ...                                      | ...                                                                     |
+
 
 ## Queues
 
